@@ -13,7 +13,7 @@ namespace SeLNunitExamples
         {
             driver = new ChromeDriver();
 
-            driver.Url = "https://www.google.com";
+            driver.Url = "https://www.amazon.com/";
 
         }
 
@@ -23,7 +23,7 @@ namespace SeLNunitExamples
 
             Thread.Sleep(2000); //never use the thread not using
             string title= driver.Title;
-            Assert.AreEqual("Gooogle", title);
+            Assert.AreEqual("Amazon.com. Spend less. Smile more.", title);
 
 
         }
