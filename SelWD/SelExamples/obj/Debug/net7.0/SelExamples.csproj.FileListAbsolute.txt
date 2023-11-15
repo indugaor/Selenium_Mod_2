@@ -24,3 +24,4 @@ D:\Selenium\SelWD\SelExamples\obj\Debug\net7.0\SelExamples.pdb
 D:\Selenium\SelWD\SelExamples\obj\Debug\net7.0\SelExamples.genruntimeconfig.cache
 D:\Selenium\SelWD\SelExamples\obj\Debug\net7.0\ref\SelExamples.dll
 D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\nunit.framework.dll
+D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\WebDriver.Support.dll
