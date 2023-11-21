@@ -13,6 +13,7 @@ D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\SeLNunitExamples.deps.json
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\SeLNunitExamples.runtimeconfig.json
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\SeLNunitExamples.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\SeLNunitExamples.pdb
+D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\SeleniumExtras.WaitHelpers.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -25,6 +26,7 @@ D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\Microsoft.Win32.SystemEvents
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\Newtonsoft.Json.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\NuGet.Frameworks.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\nunit.framework.dll
+D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\WebDriver.Support.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\WebDriver.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\System.Drawing.Common.dll
 D:\Selenium\SelWD\SeLNunitExamples\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll

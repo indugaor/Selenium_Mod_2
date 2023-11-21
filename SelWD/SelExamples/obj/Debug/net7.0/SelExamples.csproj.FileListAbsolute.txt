@@ -8,6 +8,8 @@ D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\SelExamples.dll
 D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\SelExamples.pdb
 D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\nunit.framework.dll
+D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\WebDriver.Support.dll
 D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\WebDriver.dll
 D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\System.Drawing.Common.dll
 D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
@@ -23,5 +25,3 @@ D:\Selenium\SelWD\SelExamples\obj\Debug\net7.0\refint\SelExamples.dll
 D:\Selenium\SelWD\SelExamples\obj\Debug\net7.0\SelExamples.pdb
 D:\Selenium\SelWD\SelExamples\obj\Debug\net7.0\SelExamples.genruntimeconfig.cache
 D:\Selenium\SelWD\SelExamples\obj\Debug\net7.0\ref\SelExamples.dll
-D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\nunit.framework.dll
-D:\Selenium\SelWD\SelExamples\bin\Debug\net7.0\WebDriver.Support.dll
