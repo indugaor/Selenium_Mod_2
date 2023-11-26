@@ -1,4 +1,4 @@
-namespace Naapitol
+namespace Naaptol
 {
     public class Tests
     {

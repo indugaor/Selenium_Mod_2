@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Selenium\\SelWD\\Naapitol\\Naaptol.csproj": {}
+    "D:\\Selenium\\SelWD\\Naaptol\\Naaptol.csproj": {}
   },
   "projects": {
-    "D:\\Selenium\\SelWD\\Naapitol\\Naaptol.csproj": {
+    "D:\\Selenium\\SelWD\\Naaptol\\Naaptol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Selenium\\SelWD\\Naapitol\\Naaptol.csproj",
+        "projectUniqueName": "D:\\Selenium\\SelWD\\Naaptol\\Naaptol.csproj",
         "projectName": "Naaptol",
-        "projectPath": "D:\\Selenium\\SelWD\\Naapitol\\Naaptol.csproj",
+        "projectPath": "D:\\Selenium\\SelWD\\Naaptol\\Naaptol.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Selenium\\SelWD\\Naapitol\\obj\\",
+        "outputPath": "D:\\Selenium\\SelWD\\Naaptol\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,18 @@
               "target": "Package",
               "version": "[3.11.0, )"
             },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.7.1, )"
@@ -88,6 +100,10 @@
             "Selenium.WebDriver.MSEdgeDriver": {
               "target": "Package",
               "version": "[119.0.2151.42, )"
+            },
+            "Selenium.WebDriver.MicrosoftWebDriver": {
+              "target": "Package",
+              "version": "[10.0.17134, )"
             },
             "coverlet.collector": {
               "target": "Package",

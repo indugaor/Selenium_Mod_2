@@ -6,26 +6,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Naapitol.PageObjects
+namespace Naaptol.PageObjects
 {
     internal class NaaptolHomePage
     {
         IWebDriver driver;
         public NaaptolHomePage(IWebDriver driver)
         {
-            this.driver = driver ?? throw new ArgumentException(nameof(driver));
+            this.driver = driver;
             PageFactory.InitElements(driver, this);
         }
 
-        //Arrange
         [FindsBy(How = How.Id, Using = "header_search_text")]
-        public IWebElement? SearchInputBox { get; set; }
+        public IWebElement? SearchBox { get; set; }
 
-        //Act
-        public void SearchClick(string productName)
+
+
+        public Select5thProductPage SearchForProduct(string productName)
         {
-            SearchInputBox?.SendKeys(productName);
-            SearchInputBox?.SendKeys(Keys.Enter);
+            SearchBox?.Click();
+            SearchBox?.SendKeys(productName);
+            SearchBox?.SendKeys(Keys.Enter);
+            return new Select5thProductPage(driver);
         }
+
     }
 }
