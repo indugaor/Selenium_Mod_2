@@ -1,0 +1,5 @@
+D:\Selenium\SelWD\Rediff\obj\Debug\net7.0\Rediff.csproj.AssemblyReference.cache
+D:\Selenium\SelWD\Rediff\obj\Debug\net7.0\Rediff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Selenium\SelWD\Rediff\obj\Debug\net7.0\Rediff.AssemblyInfoInputs.cache
+D:\Selenium\SelWD\Rediff\obj\Debug\net7.0\Rediff.AssemblyInfo.cs
+D:\Selenium\SelWD\Rediff\obj\Debug\net7.0\Rediff.csproj.CoreCompileInputs.cache

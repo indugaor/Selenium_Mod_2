@@ -20,20 +20,30 @@ namespace SeLNunitExamples
             Assert.AreEqual("Google", driver.Title);
             Console.WriteLine("Title test - pass");
         }
-        [Ignore("other")]
+       // [Ignore("other")]
         [Test]
         [Order(20)]
 
         public void GStest()
         {
+            string? currDir = Directory.GetParent(@"../../../")?.FullName;
+            string? excelFilePath = currDir + "\\InputData.xlsx";
+            Console.WriteLine(excelFilePath);
 
-            IWebElement searchinputtextbox = driver.FindElement(By.Id("APjFqb"));
-            searchinputtextbox.SendKeys("Hp laptop");
-            Thread.Sleep(3000);
-            IWebElement gsbutton = driver.FindElement(By.ClassName("gNO89b"));    //Name("btnK"));
-            gsbutton.Click();
-            Assert.AreEqual("Hp laptop - Google Search", driver.Title);
-            Console.WriteLine("GS Test - pass");
+            List<ExcelData> excelDataList=ExcelUtils.ReadExcelData(excelFilePath);
+
+            foreach (var excelData in excelDataList)
+            {
+
+                IWebElement searchinputtextbox = driver.FindElement(By.Id("APjFqb"));
+                searchinputtextbox.SendKeys("Hp laptop");
+                Thread.Sleep(3000);
+                IWebElement gsbutton = driver.FindElement(By.ClassName("gNO89b"));    //Name("btnK"));
+                gsbutton.Click();
+                Assert.That(driver.Title, Is.EqualTo(excelData.SearchText+"-Google search"));
+                Console.WriteLine("GS Test - pass");
+                driver.Navigate().GoToUrl("https://www.google.com");
+            }
         }
         [Ignore("other")]
 

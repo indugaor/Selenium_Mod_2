@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZBoEOAYpA1g2VuiAJt03HEiKjFNN1T79ucAomRfXlRBBpYtMB0P2pUR2JF43RCtuNziLYvoM8cJP2uepHf3zg==",
+  "dgSpecHash": "+87FkRvvTnXppKvmcOIfDmXOvGv0HHCtLEV76Jei6sdOKAlGWsxgIz3eCrANYVhmyxGz64BxnKXBwXYmlItdOw==",
   "success": true,
   "projectFilePath": "D:\\Selenium\\SelWD\\NUintAss\\NUintAss.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.support\\4.15.0\\selenium.support.4.15.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
